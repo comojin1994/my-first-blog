@@ -1,0 +1,20 @@
+.talk, .stress, .children, .light {
+    padding-left: 30px;
+}
+
+.title button {
+    text-align: right;
+}
+.title {
+    background-color: green;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    text-align: center;
+}
+
+div {
+    border: 5px solid black;
+    padding: 5px;
+    margin: 50px;
+}
+
